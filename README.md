@@ -1,7 +1,7 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
-Grupo: DIU2_05JPRR.  Curso: 2022/23 
+Grupo: DIU2_05ElChiringo.  Curso: 2022/23 
 Updated: 11/1/2023
 
 Proyecto: 
