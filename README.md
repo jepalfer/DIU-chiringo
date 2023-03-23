@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Jesús Palomares     :octocat:     https://github.com/jepalfer
- * :bust_in_silhouette:  Rubén Rosales     :octocat:
+ * :bust_in_silhouette:  Rubén Rosales     :octocat: https://github.com/Rubenelcurioso
 
 ----- 
 
