@@ -15,15 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Jesús Palomares     :octocat:     
+ * :bust_in_silhouette:   Jesús Palomares     :octocat:     https://github.com/jepalfer
  * :bust_in_silhouette:  Rubén Rosales     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
