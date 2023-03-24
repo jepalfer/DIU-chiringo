@@ -44,9 +44,9 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  https://github.com/jepalfer/DIU-chiringo/blob/master/P1/Usabilidad.pdf 
+>>> - Valoración final (numérica): 81
+>>> - Comentario sobre la valoración:  Creo que la valoración es correcta porque, a pesar de que la página no sea excelente, tampoco da un servicio horrendo. Es verdad que la página podría mejorar ciertas cosas, pero cumple con su propósito de que puedas reservar una visita turística.
 
 
 ## Paso 2. UX Design  
