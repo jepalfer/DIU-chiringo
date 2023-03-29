@@ -30,4 +30,26 @@ En el caso de Agustín, tiene problemas principalmente con la interfaz de la pá
 traduciendo toda la página, con una disposición más clara de los botones y contenido (incluyendo el precio de las visitas) y especificando el punto de salida.
 
 ## Puntos positivos y negativos
-## Puntos positivos
+
+### Puntos positivos
+
+- Las funcionalidades principales y habituales están bien estructuradas.
+- Cumple con su objetivo.
+- La página principal es bastante clara y guía al usuario a su objetivo.
+- El menú de navegación está bien estructurado, es claro y sencillo.
+- Todos los formularios están bien estructurados. Cada una de sus secciones contiene una indicación de campo obligatorio. Proporciona ayuda como guía.
+- Los errores son fáciles de identificar y son concisos. En la medida de lo posible se han intentado de prevenir y es fácil recuperarse del error.
+- El contenido del texto es relevante y objetivo con las expectativas del usuario. También tiene una tipografía legible y con buen estilo.
+- Se proporciona ayuda en línea que se puede usar en cualquier momento sin necesidad de abandonar lo que estemos haciendo.
+- En general tiene buen rendimiento y es adaptable a cualquier tipo de dispositivo y navegador. 
+
+### Puntos negativos
+
+- No hay diferencia de configuraciones de apoyo entre niveles de usuario (más experto, menos...)
+- Algunos de los botones se superponen a otros lo cual hace que la llamada a esas opciones no se puedan realizar fácilmente.
+- Algunos precios no concuerdan entre la página de reservas y la página principal.
+- No tiene motor de búsqueda ni filtros.
+- No dispone de una posición relevante a la hora de hacer una búsqueda en google.
+- Los usuarios al realizar acciones importantes no cuentan con ninguna función de confirmar, deshacer o cancelar.
+- No existe ninguna sección clara de comentarios, lo que hace que las reseñas de la propia página no sean muy creíbles.
+- Las traducciones durante todo el proceso entre idiomas no son consistentes.
