@@ -53,3 +53,14 @@ traduciendo toda la página, con una disposición más clara de los botones y co
 - Los usuarios al realizar acciones importantes no cuentan con ninguna función de confirmar, deshacer o cancelar.
 - No existe ninguna sección clara de comentarios, lo que hace que las reseñas de la propia página no sean muy creíbles.
 - Las traducciones durante todo el proceso entre idiomas no son consistentes.
+
+## Posibles soluciones
+
+- Hacer una pequeña encuesta al entrar a la página por primera vez para verificar el nivel del usuario e introducir apoyo en función del nivel.
+- Reestructuración de los botones superpuestos e incluso eliminando alguno de ellos por redundancia.
+- Modificar los precios para que sean consistentes.
+- Añadir motor de búsqueda, opcional(añadir filtros a las búsquedas).
+- Pagar para un mejor posicionamiento en la búsquedas (en el caso de no pagar comprobar cómo funciona el algoritmo de ranking de google).
+- Agregar un cuadro de texto de confirmación a la hora de realizar acciones importantes tales cómo reservar...
+- Agregar una sección de comentarios en las rutas o bien en la página principal.
+- Asegurar que las traducciones sean consistentes.
