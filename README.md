@@ -4,12 +4,13 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... )
 Grupo: DIU2_05ElChiringo.  Curso: 2022/23 
 Updated: 11/1/2023
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto:
+
+photoSpot
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Con photospot descubrirás lugares increíbles y únicos para tus fotos para redes sociales.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
