@@ -14,8 +14,9 @@ Descripción:
 
 Con photospot descubrirás lugares increíbles y únicos para tus fotos para redes sociales. 
 
-Logotipo: 
-img/hotspotLogo.png
+Logotipo:
+
+![logotipo aplicación](img/hotspotLogo.png)
 
 Miembros
  * :bust_in_silhouette:   Jesús Palomares     :octocat:     https://github.com/jepalfer
