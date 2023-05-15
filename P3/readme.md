@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
-
+Logo -> https://github.com/jepalfer/DIU-chiringo/raw/master/img/hotspotLogo.png
 
 ## Landing Page
 
