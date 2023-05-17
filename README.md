@@ -16,7 +16,7 @@ Con photospot descubrirás lugares increíbles y únicos para tus fotos para red
 
 Logotipo:
 
-![logotipo aplicación](img/hotspotLogo.png)
+![logotipo aplicación](img/photoSpotLogoNombre.png)
 
 Miembros
  * :bust_in_silhouette:   Jesús Palomares     :octocat:     https://github.com/jepalfer
