@@ -25,12 +25,22 @@ Los colores definidos en el moodboard son:
   Ej: https://static.vecteezy.com/system/resources/previews/012/042/301/original/warning-sign-icon-transparent-background-free-png.png
   
  ### Iconos
- Los iconos que utilizaremos al ser una aplicación de móvil son los de https://ionic.io/ionicons/ además de cumplir con muchos de los problemas de la UX son open-source.
+ Los iconos que utilizaremos al ser una aplicación de móvil son los de https://ionic.io/ionicons/ además de cumplir con muchos de los problemas de la UX, son open-source.
  
  ### Patrones de diseño
+  - Navegación: uso de TABS BAR/pestañas de navegación en la parte inferior de la app.
+  - Amigos y rankings: uso de listas.
+  - Imágenes: uso de galería.
+  - Tutorial o guía de uso: uso de STEPPER (patrón que requiere acción del usuario mediante pasos).
+  - Otras secciones: uso de HAMBURGUER MENU (menú deslizable contiene secciones).
+  - Mapas interactivos.
+  - Notificaciones push (solo información relevante).
   
  ### Tipografía y estilo del lenguaje
-  
+ El lenguaje que se aplica a la app debe ser escueto, conciso, simple, formal sin ningún uso de palabras técnicas para que así se haga muy intuitiva y fácil de entender/usar para todo tipo de público.
+ En cuánto al estilo de letra:
+  - Encabezados -> https://www.dafont.com/es/aspergit.font - Aspergit
+  - Texto -> https://www.download-free-fonts.com/details/91377/swift-regular - Swift
 
 ## Mockup: LAYOUT HI-FI
 
