@@ -1,5 +1,8 @@
 # DIU - Practica 3, entregables
 
+## Landing page
+https://github.com/jepalfer/DIU-chiringo/blob/master/P3/LandingPage.pdf
+
 ## Moodboard (diseño visual + logotipo)   
 Logo -> https://github.com/jepalfer/DIU-chiringo/raw/master/img/photoSpotLogo.png
 
@@ -8,7 +11,7 @@ En esta sección se profundiza más sobre la selección de estilos y diseños qu
 
 ### Logo 
 En una primera instacia diseñamos el siguiente logo:
- ![hotspotLogo](https://github.com/jepalfer/DIU-chiringo/assets/104898981/0c572043-6073-4cd8-9141-ef409692442a)
+ ![photoSpotLogo](https://github.com/jepalfer/DIU-chiringo/assets/104898981/0c572043-6073-4cd8-9141-ef409692442a)
 
 Sin embargo el veredicto final no ha sido satisfactorio tras una vuelta de tuerca en su diseño y lo que se pretendía reflejar con ello,concluimos que el logo no era lo suficientemente acercado a la idea del proyecto y que no reflejaba bien sus motivos.
  <Introducir segundo logo>
