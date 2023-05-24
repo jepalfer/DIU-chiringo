@@ -62,7 +62,5 @@ Los colores utilizados para dar contraste a los anteriores son:
 
 
 ## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Los problemas que han surgido durante la realización de la práctica ha sido la imposibilidad de la misma por acumulación de otros proyectos al igual que una posible falta de organización por parte de los integrantes del equipo.
  
