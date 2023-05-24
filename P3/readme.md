@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
-Logo -> https://github.com/jepalfer/DIU-chiringo/raw/master/img/hotspotLogo.png
+Logo -> https://github.com/jepalfer/DIU-chiringo/raw/master/img/photoSpotLogo.png
 
 ## Guideline
 En esta sección se profundiza más sobre la selección de estilos y diseños que hemos optado.
