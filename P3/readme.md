@@ -1,15 +1,17 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
-Logo -> https://github.com/jepalfer/DIU-chiringo/raw/master/img/hotspotLogo.png
+Logo -> https://github.com/jepalfer/DIU-chiringo/raw/master/img/photoSpotLogo.png
 
 ## Guideline
 En esta sección se profundiza más sobre la selección de estilos y diseños que hemos optado.
 
 ### Logo 
 En una primera instacia diseñamos el siguiente logo:
- <Introducir logo antiguo>
+ ![hotspotLogo](https://github.com/jepalfer/DIU-chiringo/assets/104898981/0c572043-6073-4cd8-9141-ef409692442a)
+
 Sin embargo el veredicto final no ha sido satisfactorio tras una vuelta de tuerca en su diseño y lo que se pretendía reflejar con ello,concluimos que el logo no era lo suficientemente acercado a la idea del proyecto y que no reflejaba bien sus motivos.
+ <Introducir segundo logo>
  
 En una fase final del diseño del logo obtuvimos el siguiente:
  <Introducir logo nuevo>
@@ -29,13 +31,13 @@ Los colores definidos en el moodboard son:
  
  ### Patrones de diseño
   - Navegación: uso de TABS BAR/pestañas de navegación en la parte inferior de la app.
-  - Amigos y rankings: uso de listas.
-  - Imágenes: uso de galería.
   - Tutorial o guía de uso: uso de STEPPER (patrón que requiere acción del usuario mediante pasos).
   - Otras secciones: uso de HAMBURGUER MENU (menú deslizable contiene secciones).
   - Mapas interactivos.
-  - Notificaciones push (solo información relevante).
   
+  Fuentes: -  https://code.tutsplus.com/es/tutorials/android-desde-cero-patrones-de-diseno-ui--cms-26044 <- (TABS, HAMBURGUER MENU(=Bandeja de navegación,Navegación y mapas).
+           - https://es.linkedin.com/pulse/asistentes-por-pasos-usabilidad-y-buenas-pr%C3%A1cticas-fern%C3%A1ndez-arnanz <- (Stepper o asistente de pasos).
+                                                                                                                    
  ### Tipografía y estilo del lenguaje
  El lenguaje que se aplica a la app debe ser escueto, conciso, simple, formal sin ningún uso de palabras técnicas para que así se haga muy intuitiva y fácil de entender/usar para todo tipo de público.
  En cuánto al estilo de letra:
