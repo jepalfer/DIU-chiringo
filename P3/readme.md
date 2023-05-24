@@ -5,6 +5,7 @@ https://github.com/jepalfer/DIU-chiringo/blob/master/P3/LandingPage.pdf
 
 ## Moodboard (diseño visual + logotipo)   
 Logo -> https://github.com/jepalfer/DIU-chiringo/raw/master/img/photoSpotLogo.png
+Moodboard -> https://github.com/jepalfer/DIU-chiringo/blob/master/P3/moodboard.pdf
 
 ## Guideline
 En esta sección se profundiza más sobre la selección de estilos y diseños que hemos optado.
