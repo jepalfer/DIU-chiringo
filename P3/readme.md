@@ -20,7 +20,7 @@ Sin embargo el veredicto final no ha sido satisfactorio tras una vuelta de tuerc
 En una fase final del diseño del logo obtuvimos el siguiente:
  <Introducir logo nuevo>
 Este nuevo logo que le acompaña el nombre del proyecto hace una distinción a modo cómo si fuera una marca respecto con el anterior diseño. Se puede apreciar cómo el objetivo de la aplicación si que se ve más reflejado con el icono de fotografiar y un monumento en su interior.
-  
+  ![logotipo aplicación](../img/photoSpotLogo.png)
 ### Paleta de colores
 Los colores definidos en el moodboard son:
   - Rojo: `#7c0000` 
