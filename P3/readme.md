@@ -59,7 +59,18 @@ Los colores utilizados para dar contraste a los anteriores son:
 
 
 ## Mockup: LAYOUT HI-FI
-
+Los layouts hi-fi que hemos diseñado para nuestra aplicación son los siguientes:
+### Layouts
+![homePage](../img/photoSpot_homepageHIFI.png)
+![Noticias](../img/NoticiasHIFI.png)
+![Noticia](../img/NoticiaHIFI.png)
+![Sobre_nosotros](../img/Sobre_nosotrosHIFI.png)
+![Contacto](../img/ContactoHIFI.png)
+![Lista_amigos](../img/Lista_de_amigosHIFI.png)
+![Inicio](../img/InicioHIFI.png)
+![Recompensas](../img/RecompensasHIFI.png)
+![Coleccionables](../img/ColeccionablesHIFI.png)
+![Rankings](../img/RankingsHIFI.png)
 
 ## Documentación: Publicación del Case Study
 Los problemas que han surgido durante la realización de la práctica ha sido la imposibilidad de la misma por acumulación de otros proyectos al igual que una posible falta de organización por parte de los integrantes del equipo.
