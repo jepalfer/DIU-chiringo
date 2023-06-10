@@ -8,6 +8,10 @@ y a partir de ahí hemos obtenido las distintas áreas de interés.
 
 ### artesanía nazarí
 
+
+
+
+
 ### [WCAG A11Y]  pautas de accesibilidad
 
 ### [A11Y SIMULATOR] simulador de discapacidad 
