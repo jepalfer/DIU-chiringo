@@ -6,7 +6,7 @@ y a partir de ahí hemos obtenido las distintas áreas de interés. Lo hemos rea
 que permite hacer eye tracking, es decir, registra dónde mira el usuario usando la webcam y calibrando previamente la herramienta.
 
 Debido a que en su versión gratuita no permite hacer muchos estudios con una misma cuenta nos hemos visto en la obligación de usar menos usuarios de los que nos 
-habría gustado.
+habría gustado. La persona que ha realizado los experimentos ha sido un amigo de Rubén.
 
 ### photoSpot
 Para nuestra aplicación hemos obtenido los siguientes mapas de calor y áreas de interés:
